@@ -4,7 +4,7 @@
 
 It supports both **text-based PDFs** and **scanned PDFs (via OCR)**, and presents results in a structured, easy-to-read format.
 
-🔗 Live Demo: *add your live link here*  
+🔗 Live Demo: https://paper-simplify.vercel.app/ 
 
 ---
 
@@ -71,3 +71,4 @@ PaperSimplify focuses on **understanding**, not just summarization — helping u
 git clone https://github.com/dhwani1608/paperSimplify.git
 cd paperSimplify
 npm install
+
